@@ -13,7 +13,6 @@ Tools and Technologies Used
 
 Key Features
 - Fully Responsive Design (works on all devices, including mobile)  
-- Dark Mode based on user's system preference  
 - Clean, semantic structure with organized CSS  
 - Smooth transition effects for hover and interactive elements  
 - Simple, non-JavaScript based design  
@@ -50,7 +49,6 @@ CSS Styling Approach
 
 - CSS is written in a clean and modular way  
 - Uses media queries to handle different screen sizes (including 375x667 specifically)  
-- Supports dark mode using `prefers-color-scheme` media feature  
 - Smooth transitions applied to buttons, links, and cards using `transition` properties  
 - Fonts, spacing, and colors chosen for a modern, elegant look  
 - Class names are meaningful and grouped by section for readability  
