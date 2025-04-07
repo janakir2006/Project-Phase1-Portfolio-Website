@@ -18,7 +18,7 @@ Key Features
 - Smooth transition effects for hover and interactive elements  
 - Simple, non-JavaScript based design  
 - Section-based layout for easy navigation
-- 
+
 Website Structure
 The website is made up of the following key HTML sections:
 1. `header`
